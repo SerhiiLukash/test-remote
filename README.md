@@ -1,1 +1,1 @@
-# demo_repositiry
+# demo-repositiry
