@@ -1,1 +1,4 @@
-*.xml
+.*db
+*.log
+**/target/ 
+**/bin/
